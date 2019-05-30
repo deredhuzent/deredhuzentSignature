@@ -1,0 +1,28 @@
+* {
+   padding: 0;
+   margin: 10px;
+}
+
+a{
+    color: black;
+}
+
+#signature {
+    width: 500px;
+    height: 200px;
+    background-color: aliceblue;
+
+}
+
+.fatima {
+    position: absolute;
+    margin: 1.7em 0 0 26em;
+    width: 150px;
+}
+
+#marca {
+    position: absolute;
+    margin: 3.4em 0 0 4.7em;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2.5em;
+}
