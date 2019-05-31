@@ -39,27 +39,27 @@
 .nerdy{
     position: absolute;
     margin: 7.2em 0 0 15.1em;
-    /* width: 30px; */
+    width: 30px;
+}
+
+.ico{
+    width: 35px;
 }
 
 .socialMedia{
     position: absolute;
     display: flex;
-    margin: 10.2em 0 0 0em;
-}
-
-.ico{
-    width: 40px;
+    margin: 1.1em 0 0 15em;
 }
 
 .instagram{
-    margin: 0 0 0 0;
+    margin: 0 -1em 0 0;
 }
 
 .linkedin{
-    margin: 0 0 0 0;
+    margin: 0 -1em 0 0;
 }
 
 .github{
-    margin: 0 0 0 0;
+    margin: 0 -1em 0 0;
 }
