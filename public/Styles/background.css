@@ -8,7 +8,7 @@ a{
 }
 
 #signature {
-    width: 500px;
+    width: 400px;
     height: 200px;
     background-color: aliceblue;
 
@@ -16,14 +16,33 @@ a{
 
 .fatima {
     position: absolute;
-    margin: 1.7em 0 0 26em;
-    width: 150px;
+    margin: 2.3em 0 0 20em;
+    width: 140px;
 }
 
 #marca {
     position: absolute;
-    margin: 3.4em 0 0 4.7em;
+    margin: 3.9em 0 0 3.5em;
     font-family: 'Indie Flower', cursive;
-    font-size: 2.5em;
+    font-size: 2.2em;
     color: gray;
 }
+
+@media only screen and (max-width: 600px) {
+    #signature {
+        width: 400px;
+       /*  background-color: red; */
+    }
+
+    .fatima{
+        margin: 2.3em 0 0 20em;
+        width: 140px;
+    }
+
+    #marca {
+        margin: 3.9em 0 0 3.5em;
+        font-family: 'Indie Flower', cursive;
+        font-size: 2.2em;
+    }
+  }
+

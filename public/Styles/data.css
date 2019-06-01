@@ -4,42 +4,43 @@
 
 .name {
     position: absolute;
-    margin: 0.8em 0 0 0.6em;
-    font-size: 2em;
+    margin: 0.8em 0 0 0.3em;
+    font-size: 1.95em;
+    text-shadow: 2px 2px #1BB0D1;
 }
 
 .freelancer {
     position: absolute;
     margin: 3.4em 0 0 1em;
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 .mail{
     position: absolute;
-    margin: 5em 0 0 22em;
+    margin: 4em 0 0 22em;
 }
 
 .dirMail{
     position: absolute;
-    margin: 1.5em 0 0 -18em;
+    margin: 1.3em 0 0 -18em;
 }
 
 
 .icoMail{
     position: absolute;
-    width: 40px;
-    margin: 1.9em 0 0 -21.5em;
+    width: 35px;
+    margin: 2em 0 0 -21.5em;
 }
 
 .movil{
     position: absolute;
-    margin: 7.5em 0 0 18em;
+    margin: 8.8em 0 0 3.4em;
 }
 
 .nerdy{
     position: absolute;
-    margin: 7.2em 0 0 15.1em;
-    width: 30px;
+    margin: 8.6em 0 0 0.1em;
+    width: 25px;
 }
 
 .ico{
@@ -49,17 +50,81 @@
 .socialMedia{
     position: absolute;
     display: flex;
-    margin: 1.1em 0 0 15em;
+    margin: 7.5em 0 0 11em;
 }
 
 .instagram{
-    margin: 0 -1em 0 0;
+    margin: 0 -0.6em 0 0;
 }
 
 .linkedin{
-    margin: 0 -1em 0 0;
+    margin: 0 -0.6em 0 0;
 }
 
 .github{
-    margin: 0 -1em 0 0;
+    margin: 0 -0.6em 0 0;
+}
+
+@media only screen and (max-width: 600px){
+    
+    .name {
+        margin: 0.8em 0 0 0.3em;
+        font-size: 1.95em;
+    }
+
+    .freelancer{
+        margin: 3.4em 0 0 1em;
+        font-size: 1.2em;
+    }
+
+    .mail{
+        position: absolute;
+        margin: 4em 0 0 22em;
+    }
+    
+    .dirMail{
+        position: absolute;
+        margin: 1.3em 0 0 -18em;
+    }
+    
+    
+    .icoMail{
+        position: absolute;
+        width: 35px;
+        margin: 2em 0 0 -21.5em;
+    }
+    
+    .movil{
+        position: absolute;
+        margin: 8.8em 0 0 3.4em;
+    }
+    
+    .nerdy{
+        position: absolute;
+        margin: 8.6em 0 0 0.1em;
+        width: 25px;
+    }
+    
+    .ico{
+        width: 35px;
+    }
+    
+    .socialMedia{
+        position: absolute;
+        display: flex;
+        margin: 7.5em 0 0 11em;
+       /*  margin: 1em 0 0 14.5em; */
+    }
+    
+    .instagram{
+        margin: 0 -0.6em 0 0;
+    }
+    
+    .linkedin{
+        margin: 0 -0.6em 0 0;
+    }
+    
+    .github{
+        margin: 0 -0.6em 0 0;
+    }
 }
