@@ -84,13 +84,13 @@
     
     .dirMail{
         position: absolute;
-        margin: 0.3em 0 0 -18em;
+        margin: 1.4em 0 0 -18em;
     }
     
     
     .icoMail{
         position: absolute;
-        width: 35px;
+        width: 37px;
         margin: 2em 0 0 -21.5em;
     }
     
@@ -102,7 +102,7 @@
     .nerdy{
         position: absolute;
         margin: 8.6em 0 0 0.1em;
-        width: 25px;
+        width: 27px;
     }
     
     .ico{
@@ -113,7 +113,196 @@
         position: absolute;
         display: flex;
         margin: 7.5em 0 0 11em;
-       /*  margin: 1em 0 0 14.5em; */
+    }
+    
+    .instagram{
+        margin: 0 -0.6em 0 0;
+    }
+    
+    .linkedin{
+        margin: 0 -0.6em 0 0;
+    }
+    
+    .github{
+        margin: 0 -0.6em 0 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    
+    .name {
+        margin: 0.8em 0 0 0.3em;
+        font-size: 1.95em;
+    }
+
+    .freelancer{
+        margin: 3.8em 0 0 1em;
+        font-size: 1.1em;
+    }
+
+    .mail{
+        position: absolute;
+        margin: 3.5em 0 0 22em;
+    }
+    
+    .dirMail{
+        position: absolute;
+        margin: 1.4em 0 0 -18em;
+    }
+    
+    
+    .icoMail{
+        position: absolute;
+        width: 37px;
+        margin: 2em 0 0 -21.5em;
+    }
+    
+    .movil{
+        position: absolute;
+        margin: 8.8em 0 0 3.4em;
+    }
+    
+    .nerdy{
+        position: absolute;
+        margin: 8.6em 0 0 0.1em;
+        width: 27px;
+    }
+    
+    .ico{
+        width: 39px;
+    }
+    
+    .socialMedia{
+        position: absolute;
+        display: flex;
+        margin: 7.5em 0 0 11em;
+    }
+    
+    .instagram{
+        margin: 0 -0.6em 0 0;
+    }
+    
+    .linkedin{
+        margin: 0 -0.6em 0 0;
+    }
+    
+    .github{
+        margin: 0 -0.6em 0 0;
+    }
+}
+
+
+@media only screen and (max-width: 400px){
+    
+    .name {
+        margin: 0.8em 0 0 0.3em;
+        font-size: 1.95em;
+    }
+
+    .freelancer{
+        margin: 3.8em 0 0 1em;
+        font-size: 1.1em;
+    }
+
+    .mail{
+        position: absolute;
+        margin: 3.5em 0 0 22em;
+    }
+    
+    .dirMail{
+        position: absolute;
+        margin: 0.4em 0 0 -18em;
+    }
+    
+    
+    .icoMail{
+        position: absolute;
+        width: 37px;
+        margin: 2em 0 0 -21.5em;
+    }
+    
+    .movil{
+        position: absolute;
+        margin: 8.8em 0 0 3.4em;
+    }
+    
+    .nerdy{
+        position: absolute;
+        margin: 8.6em 0 0 0.1em;
+        width: 27px;
+    }
+    
+    .ico{
+        width: 39px;
+    }
+    
+    .socialMedia{
+        position: absolute;
+        display: flex;
+        margin: 7.5em 0 0 11em;
+    }
+    
+    .instagram{
+        margin: 0 -0.6em 0 0;
+    }
+    
+    .linkedin{
+        margin: 0 -0.6em 0 0;
+    }
+    
+    .github{
+        margin: 0 -0.6em 0 0;
+    }
+}
+
+@media only screen and (max-width: 350px){
+    
+    .name {
+        margin: 0.8em 0 0 0.3em;
+        font-size: 1.95em;
+    }
+
+    .freelancer{
+        margin: 4.7em 0 0 1em;
+        font-size: 0.9em;
+    }
+
+    .mail{
+        position: absolute;
+        margin: 3.5em 0 0 22em;
+    }
+    
+    .dirMail{
+        position: absolute;
+        margin: 0.4em 0 0 -18em;
+    }
+    
+    
+    .icoMail{
+        position: absolute;
+        width: 37px;
+        margin: 2em 0 0 -21.5em;
+    }
+    
+    .movil{
+        position: absolute;
+        margin: 8.8em 0 0 3.4em;
+    }
+    
+    .nerdy{
+        position: absolute;
+        margin: 8.6em 0 0 0.1em;
+        width: 27px;
+    }
+    
+    .ico{
+        width: 39px;
+    }
+    
+    .socialMedia{
+        position: absolute;
+        display: flex;
+        margin: 7.5em 0 0 11em;
     }
     
     .instagram{
