@@ -1,11 +1,8 @@
 .font{
     font-family: 'Raleway Dots', cursive;
-    color: black;
+color: black;
 }
 
-a{
-    font-weight: bold;
-}
 
 .name {
     position: absolute;
@@ -26,6 +23,7 @@ a{
 }
 
 .dirMail{
+    font-family: 'Poiret One', cursive;
     position: absolute;
     margin: 1.3em 0 0 -18em;
 }
@@ -38,6 +36,7 @@ a{
 }
 
 .movil{
+    font-family: 'Poiret One', cursive;
     position: absolute;
     margin: 8.8em 0 0 3.4em;
 }
