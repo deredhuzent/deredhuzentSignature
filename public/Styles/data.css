@@ -1,9 +1,10 @@
 .font{
     font-family: 'Raleway Dots', cursive;
+    color: black;
 }
 
 a{
-    color: black;
+    font-weight: bold;
 }
 
 .name {
@@ -27,7 +28,6 @@ a{
 .dirMail{
     position: absolute;
     margin: 1.3em 0 0 -18em;
-    color: black;
 }
 
 
@@ -40,7 +40,6 @@ a{
 .movil{
     position: absolute;
     margin: 8.8em 0 0 3.4em;
-    color: black;
 }
 
 .nerdy{
