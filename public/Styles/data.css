@@ -73,18 +73,18 @@
     }
 
     .freelancer{
-        margin: 3.4em 0 0 1em;
-        font-size: 1.2em;
+        margin: 3.8em 0 0 1em;
+        font-size: 1.1em;
     }
 
     .mail{
         position: absolute;
-        margin: 4em 0 0 22em;
+        margin: 3.5em 0 0 22em;
     }
     
     .dirMail{
         position: absolute;
-        margin: 1.3em 0 0 -18em;
+        margin: 0.3em 0 0 -18em;
     }
     
     
@@ -106,7 +106,7 @@
     }
     
     .ico{
-        width: 35px;
+        width: 39px;
     }
     
     .socialMedia{
