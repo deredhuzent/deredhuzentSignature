@@ -2,6 +2,10 @@
     font-family: 'Raleway Dots', cursive;
 }
 
+a{
+    color: black;
+}
+
 .name {
     position: absolute;
     margin: 0.8em 0 0 0.3em;
@@ -23,6 +27,7 @@
 .dirMail{
     position: absolute;
     margin: 1.3em 0 0 -18em;
+    color: black;
 }
 
 
@@ -35,6 +40,7 @@
 .movil{
     position: absolute;
     margin: 8.8em 0 0 3.4em;
+    color: black;
 }
 
 .nerdy{
@@ -129,7 +135,7 @@
 }
 
 
-@media only screen and (max-width: 370px){
+@media only screen and (max-width: 320px){
     
     .name {
         margin: 0.8em 0 0 0.3em;
@@ -137,8 +143,8 @@
     }
 
     .freelancer{
-        margin: 3.8em 0 0 1em;
-        font-size: 1.1em;
+        margin: 4.3em 0 0 1em;
+        font-size: 1em;
     }
 
     .mail{
@@ -170,7 +176,7 @@
     }
     
     .ico{
-        width: 39px;
+        width: 37px;
     }
     
     .socialMedia{
