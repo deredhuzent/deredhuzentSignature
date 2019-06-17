@@ -19,33 +19,21 @@
 
 .mail{
     position: absolute;
-    margin: 4em 0 0 22em;
+    margin: 0em 0 0 22em;
 }
 
-.dirMail{
-    font-family: 'Poiret One', cursive;
-    position: absolute;
-    margin: 1.3em 0 0 -18em;
-}
 
 
 .icoMail{
     position: absolute;
-    width: 35px;
-    margin: 2em 0 0 -21em;
-}
-
-.movil{
-    font-family: 'Poiret One', cursive;
-    text-decoration: none;
-    position: absolute;
-    margin: 8.8em 0 0 3.4em;
+    width: 187px;
+    margin: 0em 0 0 -21em;
 }
 
 .nerdy{
     position: absolute;
-    margin: 8.6em 0 0 1em;
-    width: 25px;
+    margin: 3em 0 0 1em;
+    width: 135px;
 }
 
 .ico{
@@ -200,11 +188,7 @@
 }
 
 @media only screen and (max-width: 320px){
-    
-    .name {
-        margin: 0.8em 0 0 0.3em;
-        font-size: 1.95em;
-    }
+
 
     .freelancer{
         margin: 4.3em 0 0 1em;
