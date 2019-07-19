@@ -26,24 +26,24 @@
 
 .icoMail{
     position: absolute;
-    width: 187px;
+    width: 250px;
     margin: 0em 0 0 -21em;
 }
 
 .nerdy{
     position: absolute;
     margin: 3em 0 0 1em;
-    width: 135px;
+    width: 210px;
 }
 
 .ico{
-    width: 35px;
+    width: 40px;
 }
 
 .socialMedia{
     position: absolute;
     display: flex;
-    margin: 7.8em 0 0 13.5em;
+    margin: 10.5em 0 0 13.5em;
 }
 
 .instagram{
